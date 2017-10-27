@@ -4,3 +4,6 @@
 [submodule "tooling/maven/maven-sling-plugin"]
 	path = tooling/maven/maven-sling-plugin
 	url = https://github.com/apache/sling-maven-sling-plugin
+[submodule "tooling/maven/maven-jspc-plugin"]
+	path = tooling/maven/maven-jspc-plugin
+	url = https://github.com/apache/sling-jspc-maven-plugin
