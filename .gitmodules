@@ -1,0 +1,3 @@
+[submodule "launchpad/builder"]
+	path = launchpad/builder
+	url = https://github.com/apache/sling-org-apache-sling-starter.git
